@@ -1,5 +1,6 @@
 ## Medaljer är coola
 
+Man kan kolla in på [Facebook](https://www.facebook.com/) på denna länken.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
